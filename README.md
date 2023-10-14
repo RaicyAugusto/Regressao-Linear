@@ -2,8 +2,8 @@
 
 
 
-![Feito com Python](https://img.shields.io/badge/Feito%20com-Python-blue)
-![Utilizando Jupyter Notebook](https://img.shields.io/badge/Utilizando-Jupyter%20Notebook-orange)
+(https://img.shields.io/badge/Feito%20com-Python-blue)
+(https://img.shields.io/badge/Utilizando-Jupyter%20Notebook-orange)
 
 
 
