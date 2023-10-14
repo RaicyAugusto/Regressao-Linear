@@ -1,5 +1,12 @@
 # Regressão Linear Simples usando Jupyter Notebook
 
+
+
+![Feito com Python](https://img.shields.io/badge/Feito%20com-Python-blue)
+![Utilizando Jupyter Notebook](https://img.shields.io/badge/Utilizando-Jupyter%20Notebook-orange)
+
+
+
 Este repositório contém um exemplo simples de implementação de Regressão Linear usando Python em um notebook Jupyter, focando em prever salários com base na experiência.
 
 ## Dependências
@@ -26,8 +33,7 @@ Este repositório contém um exemplo simples de implementação de Regressão Li
 
 4. **Treinando o modelo de regressão linear:** Treine o modelo de Regressão Linear com o conjunto de dados de treinamento usando a classe 'LinearRegression' do scikit-learn.
 
-![Feito com Python](https://img.shields.io/badge/Feito%20com-Python-blue)
-![Utilizando Jupyter Notebook](https://img.shields.io/badge/Utilizando-Jupyter%20Notebook-orange)
+
 
 5. **Previsão de resultados:** Com o modelo treinado, faça previsões nos dados de teste e armazene os resultados na variável 'y_pred'.
 
