@@ -1,10 +1,8 @@
 # Regressão Linear Simples usando Jupyter Notebook
 
 
-![Python](https://img.shields.io/badge/Feito%20com-Python-blue)
-![Jupyter Notebook](https://img.shields.io/badge/Utilizando-Jupyter%20Notebook-orange)
-
-
+![Python](https://img.shields.io/badge/-Python-blue)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
 
 
 Este repositório contém um exemplo simples de implementação de Regressão Linear usando Python em um notebook Jupyter, focando em prever salários com base na experiência.
